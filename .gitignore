@@ -1,0 +1,4 @@
+*.jpg
+.ipynb_checkpoints
+chatbot_imgs
+chatbot_code.txt
